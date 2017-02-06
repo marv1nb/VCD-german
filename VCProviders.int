@@ -1,0 +1,202 @@
+[VC_SplatterStation VCUIDataProvider_MapInfo]
+FriendlyName=Splatter Station
+Description="Administration Access Hall\nSize: Small\nAverage Length: 1 hour\n[Legacy]"
+MapBriefing="The company feels that the recent\n'events' and purge of the station must not\nreflect badly on its reputation.\n\nIt is required that each and every corner of\nthe facility be cleaned by friday, no delays!\nYour conduct in this matter will reflect on\nyour record and decide your continued\nemployment.\n\nWe expect each and every employee to conduct\nthemselves in a manner befitting the\ncompany's honour."
+
+[VC_RustStation VCUIDataProvider_MapInfo]
+FriendlyName=Rust-Station East
+Description="Abandoned Industrial Basement\nSize: Small\nAverage Length: 1 hour\n[Legacy]"
+MapBriefing="The company requires that the\nfacility be cleaned by no later than the\nfollowing day.\n\nFailure to have this dilapidated area\ncleansed for the commemorative plaque\nunveiling ceremony will result in your\nexpeditious termination.\n\nAny remaining filth will shame not only\nyourself, but also the company and the entire\nhuman race.\nDishonouring of humanity's saviour or the\ncompany with your actions will not be\ntolerated!"
+
+[VC_Section8 VCUIDataProvider_MapInfo]
+FriendlyName=Section 8
+Description="Ventilation & Maintenance Area\nSize: Small\nAverage Length: 45 minutes\n[Legacy]"
+MapBriefing="The cleansing of this section of\nthe facility is of the utmost urgency.\nVentilation is to be turned off by tomorrow,\nas many alien spores were discovered in\nthe duct-work; the source of which was\nfound to be this area.\n\nFailure to clean the area will result\nin access doors being sealed and the\nventilation systems isolated from your\narea.\n\nThe company advises you to consider the\nlives of other technicians in the course of\nyour duties.\nThe needs of the many outweigh the needs of\nthe person in scrubs."
+
+[VC_ZeroG VCUIDataProvider_MapInfo]
+FriendlyName=Zero-G Therapy
+Description="Zero-Gravity Station\nSize: Small\nAverage Length: 1 hour\n[Legacy]"
+MapBriefing="During the recent alien invasion\nand subsequent cleansing of alien lifeforms\nfrom this space station deep in the outer\nquadrant, systems failed and gravity was\ntemporarily disabled.\n\nIt is expected of you to perform your duties in\nlow gravity or face premature retrenchment.\n\nOnly once you have sanitized the facility and\nrestored gravity will the company trust you\nwith another assignment.\n\nExcessive use and abuse of the facility's\nsystems will result in immediate\ntermination."
+
+[VC_MedBay VCUIDataProvider_MapInfo]
+FriendlyName=Evil Science
+Description="Experimental Medical Facility\nSize: Large\nAverage Length: 2.5 hours"
+MapBriefing="Given the nature of the work that\nwas carried out within this facility,\nyour absolute discretion is paramount.\n\nFederation representatives will be arriving\nin a week, and it is imperative that\nthe facility be clean and organised\nbefore said time.\nFailure to perform your duties within company\nprotocol, and on time, will result in\nimmediate termination.\n\nYou are most assuredly an expendable\npiece within our organisation, so it\nis in your best interest to conduct\nyourself admirably.\n\nBe absolutely certain the facility is clean,\nhygienic, and in working order.\nAnd remember; discretion is the better part\nof employment."
+MapRespawnBriefing="As per your contract, you are\nto perform your assigned duties efficiently\nand with absolute discretion.\n\nWe are only hiring you for this job in a\ntemporary capacity, you are to stand in\nfor a...dismissed colleague.\n\nWork swifty and avoid eye contact with\nyour fellow workmen for any length of time."
+
+[VC_Sewer VCUIDataProvider_MapInfo]
+FriendlyName=Waste Disposal
+Description="Waste Disposal & Storage Tunnels\nSize: Medium\nAverage Length: 1.5 hours"
+MapBriefing="Tragic events within the facility's\nwaste disposal sector have lead to an\nunusually unhygenic situation.\n\nIt is required of you to clean whatever\nfilth will come off the walls,\nbut keep in mind that an inspector will be\narriving shortly and will expect proper\nsanitation protocol to be followed.\n\nIf you should fail to present a job well done,\nyou may just find yourself in a worse mess\nthan before, in more ways than one."
+MapRespawnBriefing="Whether or not you believe\nthe rumours, we're sending you in to replace a\ncolleague who is presently indisposed.\n\nComplete your work assignment with haste,\nor face dismissal.\n\nIf you should face similar...obstacles\nas your former colleague, then we advise you\nto ignore them and press on!"
+
+[VC_Caduceus VCUIDataProvider_MapInfo]
+FriendlyName=Caduceus
+Description="Experimental Bio-Chemical Facility\nSize: Medium\nAverage Length: 1.5 hours"
+MapBriefing="The presence of possible remaining\nviral contaminants must not deter you\nfrom cleaning the medical facility in\nits entirety.\n\nRecent tragic events have lead to a shortage of\nHazmat suits.\nManagement feels that the unimportance of your\ntask does not warrant the expenditure of\nvalued articles.\nTherefore it is advised that your work\nbe expeditious.\n\nFailure to restore the facility promptly is a\nmatter of finality."
+MapRespawnBriefing="A fellow colleague was rushed\noff-site earlier today with a serious\ninfection.\n\nWe are sending you in to cover for them.\nDo not demonstrate the same lack of initiative\nas they did.\n\nFailure to expedite the cleanup operation will\nresult in your immediate dismissal, or worse.\n\nTake care when handling any remaining\ncontaminants. Always ensure proper protocols.\nThe facility must be corrected promptly,\nefficiently, and above all quietly."
+
+[VC_Cryo VCUIDataProvider_MapInfo]
+FriendlyName=Cryogenesis
+Description="Experimental Cryogenics Facility\nSize: Large\nAverage Length: 2.5 hours"
+MapBriefing="First and foremost, do not let the\ncold temperatures deter you from performing\nyour duties as admirably as we have come to\nexpect from all company employees.\nPerhaps you would find unemployment more\ncomfortable than this?\n\nThe aftermath of the chilling events that\ntranspired here must be cleaned and\nrepaired as hastily as possible, as\nIzanagi Corporation inspectors will be\narriving shortly to ensure the facility\nis as it should be.\n\nRegarding the specimens; Cryogenic Engineers\nhave informed us that there is almost no\nchance of further incident, so do not be\nalarmed."
+MapRespawnBriefing="Due to unknown causes, a workman\nhas died on-site.\n\nWe are sending you in as a replacement\nin order to finish the job.\n\nDo not be alarmed by the incident, carry\nout your duties quickly and calmly.\n\nAvoid working in close proximity to your\nfellow workmen, be aware and above all,\ncautious."
+
+[VC_Digsite VCUIDataProvider_MapInfo]
+FriendlyName=Unearthly Excavation
+Description="Heavy Metal Mining & Excavation Installation\nSize: Huge\nAverage Length: 2.5 hours"
+MapBriefing="Despite the catastrophic events that\nunfolded within this excavation site,\nyou will perform your job with utmost\ndelicacy and discretion.\n\nUnicorp officials will be inspecting the\nsite this week, so work with haste to clean,\nsanitize and neaten the facility.\n\nFailure to complete your work here\nwithin the time frame will result in\ntermination of your contract,\npossibly more...\n\nDo not be alarmed by any residual\nentities or artifacts that remain as a\nresult of the events; it is your duty to\nconduct yourself professionally despite\nsuch obstructions."
+MapRespawnBriefing="You are being hired as a replacement\nfor a deceased colleague.\n\nYour fellow employee is presumed to have\nbeen devoured by an unidentified lifeform,\nexercise caution when performing your\nassigned duties.\n\nAbove all, avoid angering your co-workers,\nand ensure the facility is clean and orderly.\nDo this and you may yet join the\npermanent staff, however dangerous\nthey may be."
+
+[VC_Hall VCUIDataProvider_MapInfo]
+FriendlyName=Athena's Wrath
+Description="Exterior Access Corridor\nSize: Medium\nAverage Length: 1.5 hours"
+MapBriefing="The Company has got an easy assignment\nlined up for you here in this sector.\n\nMutated vegetation, the focus of the facility,\nthat was being studied and biologically\nengineered in the Athena Station, has escaped\nand wrought havoc upon the facility.\n\nYou are to conduct yourself hastily and\nwithin company protocols as per your contract.\nOperations must be resumed within the facility\nas soon as possible, so you are to be thorough\nand professional, or prepare to face the full\nextent of the Company's legal department..."
+MapRespawnBriefing="A recent accident has left an\nopening in the sanitation division's\nworkforce.\n\nYou are to assist any remaining colleagues\nin their duties, but be alert.\nEarly reports indicate possible foul play,\nproceed with caution.\n\nEnsure the facility is sanitized and in proper\norder in a timely fashion.\nFailure to do so will lead to a less\nfavorable re-assignment, or termination."
+
+[VC_Greenhouse VCUIDataProvider_MapInfo]
+FriendlyName=Hydroponic Hell
+Description="Experimental Botanical Greenhouse\nSize: Medium\nAverage Length: 2 hours"
+MapBriefing="However unfortunate the circumstances\nsurrounding the incident at the\nHydraxylocon Genetics facility,\nyou are to be as discreet and efficient\nas the company requires.\nMake certain to work with haste and caution\nto undo the damage caused during the outbreak.\n\nBe wary of the hazardous entities\nand materials you are likely to encounter;\noddly, they are more toxic than your latest\nwork-report!\n\nNow get to your duties. Good day."
+MapRespawnBriefing="Thanks to a tragic incident,\nwe are short on labour and left with no\nother choice but to send you in as a\nreplacement.\n\nReports are sketchy on the incident, so\nwork quickly and efficiently.\n\nAvoid unnecessary interaction with\nyour fellow workmen, and maintain prudence\nduring your ongoing duties.\n\nIf you should find yourself between\nan experimental life-form and a fellow\ncolleague, avoid any sudden movements."
+
+[VC_Paintenance VCUIDataProvider_MapInfo]
+FriendlyName=Paintenance Tunnels
+Description="Underwater Sub-Station Maintenance Tunnels\nSize: Medium\nAverage Length: 1.5 hours"
+MapBriefing="As you are well aware, 'The Verne',\nNeptech's Aquatic Sub-Station, was overrun and\ndecimated by interloping entities.\n\nThe Verne is presently ruined, filthy and\nunsafe for human habitation.\nNevertheless, you have a job to do.\n\nDue to the difficulty in getting you to\nthis location, and the expenditure involved,\nwe are issuing you, and the operation,\nan F-Class safety protocol.\nYou've been warned...\n\nMove with haste and perform your duties as\nrequired of you, and we may not need to dock\nyour pay to recoup excessive operational\nexpenses."
+MapRespawnBriefing="Your former colleague is presumed\nto have perished somewhere within the station.\n\nDue to the difficulty of sending you in as\na replacement, and the expenditure involved,\nyou will be working without pay.\nIf you do not perform your job adequetly,\nwe will have no choice but to terminate\nyour contract.\n\nThe Deep Sea Recovery Vehicle will be\nleaving at 1300 hours, if you fail to finish\nthe job sufficiently by that time,\nyou will not be on-board."
+
+[VC_Dark VCUIDataProvider_MapInfo]
+FriendlyName=Unrefinery
+Description="Back-Water Chemical Refinery\nSize: Small\nAverage Length: 1 hour"
+MapBriefing="This somewhat dilapidated oil\nrefinery, as you know, was victim to a\nrecent 'incident'.\n\nUnknown "Mantis" entities appear to have\ninvaded from below the surface, where they were\ndisturbed by facility operations.\nThey have almost certainly all been terminated\nby this point. Surely...\n\nAs always, Company protocols stipulate that\nyou should operate efficiently, and with\ndiscretion, in carrying out your custodial\nduties.\n\nWork safe. Work Smart. Work hard!"
+MapRespawnBriefing="A former colleague of yours has\nsuffered a sudden death somewhere within\nthe station.\n\nWe're not exactly sure what's going on down\nthere, so be alert, possible entities may be\ninvolved.\n\nEnsure the facilty is in working order and\ncleared of all possible signs of\nthe 'incident'.\nOur benefactors will not accept further\nfailure, do NOT dissapoint them..."
+
+[VC_ZeroG_New VCUIDataProvider_MapInfo]
+FriendlyName=Gravity Drive
+Description="Experimental Gravitaional\nPropulsion Vessel\nSize: Medium\nAverage Length: 2 hours"
+MapBriefing="Company officials are not entirely\ncertain of the circumstances around,\nor the cause of the event.\nHowever, a repeat of said event, whatever\nits cause, seems statistically unlikely.\n\nOperate carefully, and be sure not to damage\nthe sensitive equipment; zero-gravity\nconditions can be disconcerting, especially\nfor the inexperienced...\n\nThe shuttle will be passing by the vessel\nperiodically, so be sure to work with haste.\nMake certain you do not cause a repeat\nof the previous event, and work quickly,\nbut carefully!\n\nDo not delay; get to it!"
+MapRespawnBriefing="Reports tell us a Janitor has\ndied or been otherwise terminated aboard\nthe vessel.\n\nWe're not exactly sure what the cause was,\nso caution is advised!\n\nEnsure the vessel is in tip-top shape, and\ndevoid of any anomalies.\nPlease exercise care around your fellow\nworkmen, they cannot be trusted.\n\nThe company will not accept further failures,\ndo NOT dissapoint us..."
+
+[VC_Robot VCUIDataProvider_MapInfo]
+FriendlyName=Revolutionary Robotics
+Description="High-Tech Robotics Engineering,\nResearch and Development Facility\nSize: Large\nAverage Length: 3 hours"
+MapBriefing="As they are an important benefactor,\nit is imperative that you sanitise and restore\nthis OmniCorp facility with due haste and\ndiligence.\nOfficials are waiting anxiously for your work\nto be complete so as to return the facility\nto full operational status.\n\nA repeat of the fault occurring in the\nAI sub-routines seems highly unlikely,\nso do not be alarmed by the non-organic\nentities still stationed here.\n\nWork fast, work hard, work competently,\nwork discreetly!""
+MapRespawnBriefing="Unconfirmed reports indicate that a\nformer sanitation workman has died in the\nline of duty.\n\nIt is not clear what caused their death, so\ncaution is advised!\n\nEnsure the facility is once more operational,\nand above all devoid of any anomalies.\nPlease exercise prudence when in the vicinity\nof your fellow workmen,\nthey are to be treated as suspects.\n\nThe company will not allow any more failures,\naccidental or otherwise..."
+
+[VC_Jungle VCUIDataProvider_MapInfo]
+FriendlyName=Overgrowth
+Description="Unobtainium Mining and Industrial\nProcessing Outpost\nSize: Large\nAverage Length: 2 hours"
+MapBriefing="Details surrounding the incident that\noccurred here are sketchy and inconsistent,\nhowever that must not deter you from your\nduties as an expendable employee.\n\nThe area of undergrowth and forest outside\nthe facility, as well as interior yards,\nare to be searched thoroughly and cleaned\nimmediately.\n\nThe Company is expecting more Special Forces\nteams and other officials to visit the site\nfor further inspection and investigation,\nonce you have completed your operations.\nSo with that in mind, make certain there\nis no evidence of the previous incident\nremaining.\n\nNow get to it!"
+MapRespawnBriefing="Sketchy intel from the planet's\nsurface suggests a former sanitation\ntechnician has perished.\nWe presume them lost in the jungle, or worse.\n\nWhatever is going on down there, we advise\nextreme caution.\n\nEnsure the outpost is cleaned, and above all\nfree of said employee's remains, if found.\n\nExercise care when working near your\ncolleagues, they are to be treated with great\nsuspicion.\n\nThe company will not permit further\nincompetence, so get to it!"
+
+[VC_IceStation VCUIDataProvider_MapInfo]
+FriendlyName=Frostbite
+Description="Ice Moon Research Outpost\nSize: Medium\nAverage Length: 1 hour"
+MapBriefing="This dreary research and storage\nfacility has a long record of minor\npsychological incidents due to the isolation\nand cold, but even so, details regarding\nthe events that decimated the facility\nare sketchy at best.\nAn extra-terrestrial organism is suspected\nto be involved, however, the junior\nrecon team is certain it no longer poses\na threat..\n\nAlready there are multiple conglomerates\ninterested in acquiring the installation\nand collected data once you have executed\nyour sanitation duties.\n\nWork diligently, and with speed, as the\nfacility is expected to be ''swept'' over\nvia orbital bio-bomb to ensure security.\n\nGood day."
+MapRespawnBriefing="Unreliable intel suggests a former\ncolleague of yours has perished, possibly\ndue to the sub-zero temperatures.\nWe have officially listed them as KIA.\n\nWhatever the case may be, we expect you to\nreplace the deceased with due haste.\n\nEnsure the installation is clean and orderly\nas quickly and efficiently as possible.\n\nUse caution when working near your other\ntechnicians, they have not yet been ruled\nout as potential suspects..."
+
+[VC_Incubator VCUIDataProvider_MapInfo]
+FriendlyName=Incubation Emergency
+Description="Embryonics Research Facility\nSize: Large\nAverage Length: 3 hour"
+MapBriefing="This facility has been designated\nas a high priority for you, and it is\nimperative that it is cleaned hastily and\nthoroughly.\nPreliminary reports indicate widespread\ndamage to the centre itself, as well as a\nlarge number of deceased staff members.\nFurthermore, we have heard rumours of\n"biological masses" infesting the\ninstallation.\n\nBe sure to restore operations to facility\nequipment, including incubator device lights\nand specimens.\nOperations are to be resumed as soon as\npossible, and therefore both the company\nand facility executives are expecting nothing\nshort of a stellar performance on your part.\nOr else."
+MapRespawnBriefing="Some unusual reports indicate a\nformer colleague of yours has vanished\non the job.\n\nThis has led to a temporary opening, and you\nare required to fill it, or risk termination.\n\nWhatever led to their death does not concern\nyou, your only task is to pick up where\nthey left off.\n\nEnsure the installation is operational in\na timely manner, but exercise caution, we\nstill don't know what caused the death of\nyour colleague.\nTherefore we prescribe prudence when working\nin close proximity to any other remaining\ncolleagues."
+
+[VC_JanitorOffice VCUIDataProvider_MapInfo]
+FriendlyName=The 'Office'
+MapRespawnBriefing="Due to the recent death of a fellow\nsanitation worker, there is now an opening\nin this section of the facility for storage of\nyour personal effects.\n\nDo not be alarmed by any residual remnants of\nthe aforementioned employee.\n\nKeep your area clean, and avoid eye contact\nwith your colleagues.\nWork safe, work smart, your future depends\non it."
+
+[VC_FrontEnd_New VCUIDataProvider_MapInfo]
+FriendlyName=Front End
+
+[VCRadioMusic_01 VCUIDataProvider_RadioInfo]
+Songs=(SongTitle="Bongo in the Congo",SongArtist="Jungle Jazz")
+Songs=(SongTitle="Squeaky Clean",SongArtist="The Escalator Crew")
+Songs=(SongTitle="Goo",SongArtist="Biohazardous Waste Leak")
+Songs=(SongTitle="Monkeyfire",SongArtist="The Zoologists")
+Songs=(SongTitle="Shrieker",SongArtist="Dirty Razors")
+Songs=(SongTitle="Spaced Out",SongArtist="Red Pill")
+Songs=(SongTitle="Polka 2180",SongArtist="Cobbled Hoppers")
+Songs=(SongTitle="The Ballad of Rick Rodney; Space-Pirate",SongArtist="Strung Out Orchestra")
+Songs=(SongTitle="Chemical Roach",SongArtist="Skunks in the Machine")
+Songs=(SongTitle="Karoshi Ghost",SongArtist="Zero Boy")
+Songs=(SongTitle="Cleanup Menu",SongArtist="Janitor Nation")
+Songs=(SongTitle="Darkwash",SongArtist="Janitor Nation")
+Songs=(SongTitle="Booom",SongArtist="Wormhole")
+Songs=(SongTitle="Neutronium Sandwich",SongArtist="Syzygy Twins")
+Songs=(SongTitle="PowahPlant",SongArtist="The Catalyst vs Cosmic Voodoo")
+
+[VCSkins_Default01 VCUIDataProvider_SkinPack]
+CharacterSkins=(FriendlyName="White Bob")
+CharacterSkins=(FriendlyName="Black Bob")
+CharacterSkins=(FriendlyName="Asian Bob")
+CharacterSkins=(FriendlyName="White Barb")
+CharacterSkins=(FriendlyName="Black Barb")
+CharacterSkins=(FriendlyName="Asian Barb")
+CharacterSkins=(FriendlyName="Rasta Bredah")
+PartSkins=(FriendlyName="Standard Issue")
+PartSkins=(FriendlyName="Danger Man")
+PartSkins=(FriendlyName="Orange-Boot Special")
+PartSkins=(FriendlyName="New Recruit")
+PartSkins=(FriendlyName="Regular Scrub")
+PartSkins=(FriendlyName="Senior")
+PartSkins=(FriendlyName="New Recruit")
+PartSkins=(FriendlyName="Regular Scrub")
+PartSkins=(FriendlyName="Senior")
+PartSkins=(FriendlyName="New Recruit")
+PartSkins=(FriendlyName="Regular Scrub")
+PartSkins=(FriendlyName="Senior")
+PartSkins=(FriendlyName="New Recruit")
+PartSkins=(FriendlyName="Regular Scrub")
+PartSkins=(FriendlyName="Senior")
+PartSkins=(FriendlyName="New Recruit")
+PartSkins=(FriendlyName="Regular Scrub")
+PartSkins=(FriendlyName="Senior")
+PartSkins=(FriendlyName="New Recruit")
+PartSkins=(FriendlyName="Regular Scrub")
+PartSkins=(FriendlyName="Senior")
+PartSkins=(FriendlyName="Zion Lion")
+
+[VCNewsTicker_01 VCUIDataProvider_NewsTicker]
+NewsStories=(HeadlineText="Death Maggots To Host Tribute Tour!",StoryText="Death Maggots are launching a month long tribute tour to honour Sgt. Jack Hammer's heroics across the galaxy. Get your tickets at Galaticket now, and honour humanity's saviour by growling for 8 hours straight!")
+NewsStories=(HeadlineText="I Love Quasar Emperor",StoryText="I, Sgt. Jack Hammer only eat Quasar Emperor Burgers, mmm mmm, the taste of the galaxy! With every delicious bite I gain the power to kick ass and make mess, ooah!")
+NewsStories=(HeadlineText="The Glorbon Tentacles of Zylab-7",StoryText="Sgt. Jack Hammer, recent saviour of the Eden Prime colony has taken some time off to kick even more betentacled alien ass in his new movie; The Glorbon Tentacles of Zylab-7! Coming soon...")
+NewsStories=(HeadlineText="Horror, Death, News!",StoryText="Horror Today as Izinagi Corporation is once again making headlines, and this time...it's serious! Tune in at 22:30 GST, only on: Ferret...")
+NewsStories=(HeadlineText="Saviour's Backwater Scandal",StoryText="Sgt. Jack Hammer sighted in backwater colony ''Mudwrench'' at an underground gentlemen's club, we've got pictures! What will they show? Find out at 21:00 GST, only on: Papanazzi...")
+NewsStories=(HeadlineText="Neo Toys Launches New Line",StoryText="In honor of the anniversary of Mjr. Kerrigan's incredible efforts at the ''Athena'' complex, ''Neo Toys'' is launching a range of exclusive action figures and assorted merchandise. The heroic Mjr. Kerrigan, the insidious plant-like adversaries, the creepy scientists; all these and more will be available! Your little one will love the almost true-to-life materials and superb craftsmanship. Check your local retailer for availability this coming week.")
+NewsStories=(HeadlineText="Sgt. Jack Hammer Lauded",StoryText="It has been announced that beloved solider, Sgt. Jack Hammer, has been awarded the prestigious ''Azure Cannon'' for his incredible heroism during a recent incident. To coincide with the award ceremony, a statue will be erected in his honor on the famous ''Saints Moon'', which pays tribute to brave and exemplary individuals across the galaxy and beyond.")
+NewsStories=(HeadlineText="Samson Slater's Brawling is 'OK'",StoryText="In a much publicized incident this week, Samson Slater, the hero of Erebus V who was involved in a brawl and ''hand-to-hand altercation resulting in damage to a drinks station and various advertising dispensers'', was granted amnesty due to his ''courageous and exemplary actions on Erebus V''. Public pressure is said to have played a part in the ruling.")
+NewsStories=(HeadlineText="Legend Attends Cryocon",StoryText="Those attending ''Cryocon'' were in for a pleasant surprise this week, when heroic man-of-few words, Dr. Jordan Friedmann re-enacted some of his legendary exploits for a packed crowd. Dr. Friedmann will continue touring various events for the next month, where he is expected to bank a handsome 3,000,000 credits. We'd just like to add; he's earned it!")
+NewsStories=(HeadlineText="Hero Gorges At Exclusive Resort",StoryText="Lt. Rodney Steel was recently spotted at a luxurious Elysium resort on Pandora. Our investigator on the scene reports that he had a ''toasted Baconsyn sandwich and a potato-beer''. Read more on our info-portal for all the juicy details!")
+NewsStories=(HeadlineText="Col. Vasquez Honoured",StoryText="Col. M. Vasquez appeared on parade today at the Paladium Palace, where the procession honored her tireless efforts in defending human lives, at the negligible expense of a research facility. Watch the event broadcast post-live this week, all week!")
+NewsStories=(HeadlineText="Cpl. Razor's Faux Pas",StoryText="In news that should surprise few, Cpl. John Razor, renowned badass and patriot, is reported to have gotten into a fight following his ''barging to the front of the queue'' at a recent premiere of ''The Pig and I'', where several bystanders were hospitalized. Cpl. Razor was let off the hook at the scene when officials responded, saying only; ''come on, it's John Razor! What would you do!?''. In light of his heroics, who could disagree with that?")
+NewsStories=(HeadlineText="Union Slanders Hero",StoryText="The FUCTU (''Fair Unemployment Compensation and Treatment Union''), well known for their public displays, are once again outright accusing legendary hero Lt. Rodney Steel of ''Disgusting and wilful disregard for lesser men''. This following his recent heroics in cleansing an outlying research station from winged beasts. FUCTU are suing Lt. Steel on behalf of their members who claim: ''Shooting everything in sight is all very well if you don't have to clean it up!''. Lt. Steel has hired the galaxy's best lawyers, many of which seek to make an example of FUCTU. Best of luck to you, Lt. Steel!")
+NewsStories=(HeadlineText="Jingo Pop-It!",StoryText="Patriot Cola, the legendary name behind Jingo-Pop and Fat-Man are launching a galaxy wide campaign to promote their new soft-drink; Jingo-Pop Ultra. In hopes of raising awareness and further closing the market, Patriot Cola are urging everyone across the galaxy to honour their heroes in the best way possible; by making it fun! The so called ''Jingo Pop-it'' mission encourages everyone to ''follow their example and do what they do''. Will you Jingo Pop-it?")
+NewsStories=(HeadlineText="The BIIIG Bang-Off",StoryText="It's that time of the year again, the BIIIG Bang-Off is here! The legendary event where applicants bring their home-made boomboxes to out-do each other in a cacophony of ear-smashing beats! As is tradition, ''Phat Bassics'' will once again be unveiling their newest creation in the ''Big Banger'' range. This year's edition is said to be ''earth-shatteringly powerful''. Get your tickets today!")
+NewsStories=(HeadlineText="Tyrant Wins Beauty Pageant",StoryText="Well known ''visionary leader'', 'Warlord Dong' is famous across the galaxy. Everyone knows his signature hair-cut and deep black doll-eyes. That's why we at ''Smashing Pageants'' have crowned Mr. Dong with the prestigious title of this year's ''Beauty Icon''. No other ''youthful'' face or hair anywhere across the galaxy can inspire so much emotion in the hearts and minds of humanity. For this alone, we feel he deserves the title. You're an inspiration to us all, Mr. Dong!")
+NewsStories=(HeadlineText="Get Cooking The Grinder Way!",StoryText="Today it was announced by acclaimed cookware company, ''Bishop & Ash'', that they would be launching an exclusive range of Cpt. Grinder cooking utensils and cutlery. The heroic Captain is said to enjoy a bit of cooking to unwind (kicking all that ass must certainly be stressful!), so this partnership appears to be made in Heaven! We look forward to cooking up a delicious stew in Cpt. Grinder's oversized pots!")
+NewsStories=(HeadlineText="Honorary Degree for Reserved Hero",StoryText="Famed academy, Mars Institute of Technology, today issued an honorary degree to stalwart hero, Dr. Jordan Friedmann. Quiet, yet balletic in motion, Dr. Friedmann leapt onto the stage to receive his complimentary degree in ''Advanced Theoretical Physics''. Following the tumultuous applause, Dr. Friedmann is believed to have attempted to utter some words, but none could be heard. It looked like his glasses got a bit steamed up though.")
+NewsStories=(HeadlineText="''My Gun at Heart'' Set to Launch!",StoryText="Those heading to work in various buildings across ''Kadron Central'', were startled to find enormous posters hanging down over their windows today. The enormous posters displayed well-known saviour, Mjr. Jaynah Kerrigan's new biography. The book and film are set to be an immense success when they launch later this month. We'll have reviews for the upcoming works soon, so stay tuned!")
+NewsStories=(HeadlineText="Heroes and Why We Love Them",StoryText="Well known Psychologist and Author, Dr. Fiddling discusses the deep psychological attachment we have to our galaxy's heroes, and why we spend so much of everything on them. ''It's like pre-2100 sports, it just wasn't enough'' says the good Doctor. Tune in tonight at 18:15 GST for the full interview!")
+NewsStories=(HeadlineText="Lt. Steel Receives Homely Abode",StoryText="At a packed ceremony near outer Pandora today, a luxury home and grounds were handed over to Lt. Rodney Steel, who all will know for his recent exploits in thwarting an alien infestation. In a brief speech, the Minister of Events and Ceremonies for Military Personel, ''Gen. F. Parker'' told those attending; ''It is with supreme pride that I grant this mansion to Lt. Steel. He is as fine example of an officer as I could hope for, and I wish every one of you could be even 1 percent as damn good as him! What have you all done!? You make me ill just looking at the lot of you!''. Gen. Parker was ushered off the stage by his compatriots soon after, but who can say he is wrong?")
+NewsStories=(HeadlineText="Skunk X, The Only Choice",StoryText="When it comes to kicking ass, nothing gives me the energy and nutrients I need like Skunk X! It's the taste explosion that'll make you feel like a supernova! I, Col. Vasquez, only drink SKUNK X! You should too! Cobarde.")
+NewsStories=(HeadlineText="Leaders are Apes, Says Science",StoryText="A recent scientific study suggests that the human race may very well be ''devolving'' back toward primates. Many scientists agree, and the study has stood up to a stern peer-review. The researchers mostly tested high-ranking leaders, and found the worrying genetic pattern was recurring. Scientists are calling for the return of ''pasture produced meat products''. An archaic practice from before the mid 2030s said to be the cure for this new ''devolution''. Authorities urge you to come forward if you have sudden and unusual hair growth.")
+NewsStories=(HeadlineText="''Slater Racer'' Halts Aid Shipment",StoryText="Man-of-the-moment and all-round tough guy ''Samson Slater'', was reported to be street racing around the dock-yards of Kore Prime. Him and three other accomplices were said to be ''speeding and recklessly driving'' around the industrial area in vehicles that are believed to have been granted to Mr. Slater following a series of lucrative endorsements. Despite bringing various shipping operations to a halt and other general disruptions, dock and shipping workers quickly downed tools to watch the spectacle, cheering on the hero all the while.")
+NewsStories=(HeadlineText="Cyrez To Unveil New Prototype",StoryText="The annual unveiling of Cyrez Corporation's new prototype is here! A spokesmen for the company has announced that their latest creation, while it'll set any purchaser's wallet all a-quiver, is sure to be the deadliest tool anywhere in the Galaxy, with the possible exception of Lt. Steel of course. Cyrez are once again releasing the first contracted consignment of weaponry to the highest bidder. The Exo-Planetary Liberation Corps out-bid the infamous Brotherhood of Kane last year, perhaps they will again? Tune in at 9:00 GST for the live event to find out!")
+NewsStories=(HeadlineText="Extinct ''Harvester'' Revived",StoryText="Thought of as perhaps the greatest scientific achievement to date, the 20 year old project to revive the long extinct species of strange sentient machines said to have wiped out entire civilizations and consequently their only food source, has bore fruit. The scientists involved have successfully re-animated one of the ''Harvesters''. The fact that it could potentially wipe out all life in the universe is quote: ''A minor matter of little importance compared to the joy of playing God.'' says the lead scientist involved with the project. Eitherway, we look forward to the future, however brief.")
+NewsStories=(HeadlineText="Statues To Replace The Rot?",StoryText="With another year behind us, and more ''incidents'' reported, heroes having arisen, and we must ask ourselves; ''are there enough statues commemorating our brave saviours?''. No, we say! We can never have enough! And in this old city of ours, where space is at a premium, where could we erect more totems of humanity's finest? Why, how about the old Children's Hospital or the dank Orphanage near the river? Why do we still need those? What about you, loyal readers; which of these unsightly structures do you think should be removed to make way for revering our heroes?")
+NewsStories=(HeadlineText="Life-Changing Advice From A Legend",StoryText="Renowned hero, Cpl. John Razor, gave a stirring speech and valuable advice to young recruits at local institution, ''Morpheus Academy of Military and Law Enforcement'' yesterday. Covering a range of military tactics and solutions for dealing with ''incidents'', the seasoned veteran also went into details about some of his most famous endeavours. Advice ranged from ''you gotta keep on kickin' ass even when you think you can't!'', to more practical snippets, such as; ''it don't matter how much mess you make; when you got a job to do, you focus only on that! Those bastards gotta pay! THEY GOTTA PAY!!''. You can see the full speech on public terminals at the Morpheus Academy.")
+NewsStories=(HeadlineText="Cro-Magnon P.I Returns This Friday!",StoryText="He's back! He's mad! He's hairier than ever! Catch all new episodes of ''Cro-Magnon PI'' starting this Friday! Has he still got what it takes, when his old nemesis ''Terror Dactyl'' emerges from hiding to resume his sinister plans? Will he be able to handle the primordial, drug-crazed henchmen of ''The iGuano Don'' and his empire of illicit substances? Find out this Friday; only on FERRET! It's gonna be prehistoric!")
+NewsStories=(HeadlineText="Archaeologists Uncover Our Doom?",StoryText="A recent mining operation on a distant desert-like planet, Ares, has revealed an ancient city of some kind. Scientists and archaeologists have converged on the site to determine the species that once inhabited it and how old it may be. Preliminary reports suggest that what appears to be ''artwork'' reveal that the previous inhabitants inadvertently tapped into ''a plane of evil'' via a portal of exotic particles. Let us all wish these brave men and women well as they uncover the secrets that Ares hides! Hopefully it doesn't spell our doom.")
+NewsStories=(HeadlineText="Lone Survivor Escapes, Billions Lost",StoryText="BREAKING: Word has reached us of an ''incident'' aboard commercial mining freighter, ''The Nostradamus'', where all but one of the crew were slaughtered by an ''alien entity''. Reports say that one survivor, a ''Helen Shredley'', managed to defeat the entity and escape. Intel suggests that a substantial cleanup operation will be required. There is not much more to report right now; we'll have more as the story develops.")
+NewsStories=(HeadlineText="The Agony of Choice; Elysian Springs",StoryText="Terror in the news this week as independant researchers announce a startling variance in the quality of Elysian Springs' products. Lead researcher Dr. Igor had this to say: ''After testing countless bottles of Alpine Dew, it became clear that quality is a serious concern. Despite the high levels of deadly chemicals present in the sample, we still found biological contaminants. Why, I might even consider drinking the water from my toilet were I faced with a bottle of Alpine Dew as my only alternative!'' Elysian Springs Ltd have yet to comment on Dr. Igor's scandalous announcement.")
+NewsStories=(HeadlineText="McAllistaire for Governor?",StoryText="With elections already in full swing, popular candidate Juddfrey McAllistaire's campaign has picked up steam. During a series of appearances and rallies across the galaxy, in which McAllistaire has spread his famous motto of 'Vote for Morality', the politician headed off several tough questions from his opposers with such restrained quotes as: ''Morality can't fill your stomache, but it can fill your heart, and what's more important, really?'' AND ''Vote for me, there's simply no other choice.'' Whatever the case may be, one thing is clear. You have only 5 days left to vote, good citizens!")
+NewsStories=(HeadlineText="Jurgen Shrub for Governor!",StoryText="Elections are well underway and your choice is clear. Candidate Jurgen Shrub's long standing political career clearly places him above his opposition. A man who understands that being Governor is about hard choices, and that 'Morality' McAllistaire's weak approach to governance will spiral our hard won galaxy into chaos. Don't let weak politicians like McAllistaire undermine our family values and great, strong conglomeration. Vote for Jurgen Shrub on election day!")
+
+[VCGame VCUIDataProvider_GameInfo]
+FriendlyName="Cleanup"
+Description="Standard cleanup operation.\n\nClean the entire facility at your own pace\nin the hopes of making your colleagues\nenvious and the company mildly\napproving of your work."
+
+[VCGame_Speedrun VCUIDataProvider_GameInfo]
+FriendlyName="Speedrun"
+Description="Speedrun cleanup match.\n\nReplaces the traditional and more complex 'Office'\nsystem with instant feedback and a cleanup timer\ndisplay.\n\nFor those who like instant gratification\nand cleanup trials rather than the grim\nreality of a Space-Janitor's drudgery."

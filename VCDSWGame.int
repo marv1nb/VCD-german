@@ -1,0 +1,201 @@
+[VCSWUI_MidGameMenu]
+ExitMessages[0]="Mopp wegschmeissen?"
+ExitMessages[1]="Einen illegalen Streik anzetteln?"
+ExitMessages[2]="Gibst du auf?"
+ExitMessages[3]="Zilla Enterprize enttaeuschen?"
+ExitMessages[4]="Die Yakuza Eingeweide liegen lassen?"
+ExitMessages[5]="Waesche machen?"
+ExitMessages[6]="Das Blut deinen Kollegen\nuebrig lassen?"
+ExitMessages[7]="Off to your\npsych-evaluation?"
+ExitMessages[8]="Dishonor the\ncompany policy?"
+ExitMessages[9]="Let the mess fester?"
+ExitMessages[10]="Did you slip\non something?"
+ExitMessages[11]="Trunk full?"
+
+[VCSWUI_MainMenu]
+Caption_CopyrightLabel="'Viscera Cleanup Detail' copyright� RuneStorm 2013-2016, All Rights Reserved.\n'Shadow Warrior' copyright� Flying Wild Hog 2013, All Rights Reserved."
+Hint_FWHLogo="Visit: www.flyingwildhog.com"
+Hint_DDLogo="Visit: www.devolverdigital.com"
+Hint_SWLogo="Visit: www.shadowwarrior.com"
+
+[Punchout_Machine]
+PunchoutMachine_Name="Zilla Enterprize"
+PunchoutMachine_Motto=""A keen mind steps not in a pond of eels""
+
+[Punchout_Bin]
+Note0_Heading=The News Ninja\n======================
+Note0_Headline=MIDGET NINJAS\nATTACK\nBUSINESSMAN
+Note0_Text=Investigation into the murder of a local businessman\nhas led authorities to issue a statement claiming\nthat the man was attacked by Ninjas.\nNot just any Ninjas mind you; Midget Ninjas!\n\nThe inspector in charge of the investigation\npurports that the assailants hid in a bio-waste\ndisposal bin and ambushed the deceased.\n\nNeedless to say, no one is taking it seriously.\nBut, could he be right? It's not the strangest claim\nafter all...
+Note1_Heading=The Shadow Press\n======================
+Note1_Headline=CLEANING\nSERVICE\nSILENCED
+Note1_Text=A startup cleaning company was shut down\nearlier this week after their entire workforce was\nfound dead.\n\nEarly reports suggest a Yakuza connection,\nmost notably; Zilla Enterprize.\n\nIt is believed that the stolen disposal bin found\non the scene belonged to Zilla Enterprize's\n"cleaning" division.\nPerhaps it was a retribution motivated response\nto the theft of Zilla equipment?\n\nWhatever the case, it seems no one is talking.
+
+[Punchout_Bucket]
+Note0_Heading=The News Ninja\n======================
+Note0_Headline=DISGRUNTLED\nAMBASSADOR\nDIES
+Note0_Text=Not two days after issuing a disparaging report\non a tour of Zilla Enterprize's headquarters,\nMr. Nakamura, a Japanese ambassador was found\ndead in his apartment.\n\nWhat the good ambassador was doing at a\nknown Yakuza stronghold remains unclear.\n\nHowever, his report strongly indicated that his\ntour was spoiled by a stray and filthy bucket\ninto which he landed while observing the\nancient relics on displays.
+Note1_Heading=The Rising Sun\n======================
+Note1_Headline=NINJA\nBRINGS\nSHAME
+Note1_Text=The recent discovery of a deceased Ninja\nbelieved to have been an initiate from the nearby\n"Kage Academy" has brought shame upon the\nschool.\n\nFor some inexplicable reason, the student was\nwearing a bucket on his head.\nIt is believed that this is why he lost his grip\nwhile climbing the tall structure from which he fell.\n\nThe academy's master has claimed that he will\n"hunt down those responsible", whatever\nthat means...
+
+[Punchout_Splats]
+Note0_Heading=The News Ninja\n======================
+Note0_Headline=CHILDREN\nDRINK BLOOD;\nFORM CULT
+Note0_Text=Bizarre news coming from the "Zilla Orphanage"\nin the garden district this week. The building\nrecently repurposed by Zilla Enterprize.\n\nReports indicate that old blood desposits said\nto have been present since the Orphanage's\nvery recent opening, were consumed by several\nchildren who have since formed a blood-cult.\n\nTheir leader, a particularly nasty little boy, refuses\nto back down from attempts to stop the practice.\nAuthorities are looking into the matter, but are as\nof yet unsuccessful.
+Note1_Heading=Katana Times\n======================
+Note1_Headline=PANIC\nTURNS\nMANIC
+Note1_Text=A well known local business leader has reportedly\nshut himself in his house and won't come out.\n\nFriends have indicated that he was acting severely\npanic stricken the other day after visiting the\nheadquarters of Zilla Enterprize where he\napparently saw blood stains on various\nsurfaces.\n\nAttempts to console the man have only led to\nmore manic behaviour.\n\nAuthorities say he will likely be committed next\nFriday.
+
+[Punchout_Rubble]
+Note0_Heading=The News Ninja\n======================
+Note0_Headline=CURATOR SUES\nCLEANERS
+Note0_Text=A cleanup detail service is being sued by a curator\nafter a visit to one of the buildings in the garden\ndistrict.\nAppaled at their treatment of priceless historic\nornaments and artifacts, he is now pursuing legal\naction.\n\nZilla Enterprize, the organization in-charge of the\ncleaning service commented saying:\n"We will ensure this matter is dealt with swiftly..."\n\nTime will tell what happens to the cleaning crew.
+Note1_Heading=Shuriken Mail\n======================
+Note1_Headline=WALKING\nKILLS\nTOUR GUIDE
+Note1_Text=Earlier this week, a tour guide was hospitalized\nafter leading a group through the Zilla Enterprize\nbuilding in the garden district.\n\nThe building has never before been opened to\nthe public, but was early on monday morning,\nunder tight security.\n\nThe tour guide is believed to have tripped over\nsome ancient and recently broken piece of artifact.\n\nThe tour guide has since died however, and\nauthorities intimated that it was not an accident.
+
+[Punchout_NinjaStars]
+Note0_Heading=The News Ninja\n======================
+Note0_Headline=INSPECTION\nCUT SHORT
+Note0_Text=Being an inspector can be a dangerous job, as was\nproven on wednesday when Mr. Namitsura's\ninspection was cut short after he allegedly tripped\non a "Ninja-Star" or Shuriken.\n\nThe weapon instantly severed his foot, leaving\nthe inspector stumbling out of the building and\nonly barely making it to a nearby hospital.\n\nMr. Namitsura has put his foot in it again by\npressing charges against Zilla Enterprize.\nA move that is sure to end even worse than his\naccident.
+Note1_Heading=Harakiri Gazette\n======================
+Note1_Headline=YAKUZA\nSTAR IN\nMURDER CASE
+Note1_Text=Evidence found at the crime scene of a local\nshopkeeper's murder points to the Yakuza.\n\nA Shuriken branded with "Zilla" was found at the\nscene, leading authorities to issue a strongly\nworded letter to Zilla Enterprize.\n\nAs of yet there has been no response,\nbut the chief detective has recanted his original\nstatement and claims that he was mistaken.\n\nThis is one example in a long line of cases\nwithdrawn against Zilla.
+
+[Punchout_Viscera]
+Note0_Heading=The News Ninja\n======================
+Note0_Headline=YAKUZA\nSTRONGHOLD\nA FLY NEST?
+Note0_Text=For the second week running, pest-control services\nfrom far and wide have been gathered outside a\nproperty belonging to Zilla Enterprize.\n\nDespite the best efforts of the control teams,\nthey have as of yet been unable to remove the limitless\nscourge of flies occupying the building.\n\nInvestigators have apparently traced the source to\nsome suspicious body parts.\n\nZilla Enterprize has refused to comment on the\nmatter.
+Note1_Heading=Samurai Weekly\n======================
+Note1_Headline=GRIM WARD\nATTRACTS\nPOLICE
+Note1_Text=Police have surrounded a property in the garden\ndistrict this week after passersby reported\nseeing what looked like human body parts\nhanging from poles on the property.\n\nZilla Enterprize has issued a statement\nimplicating some of their own employees who\nwere apparently just "fooling around".\nAs to the source of the body parts, Zilla Enterprize\nrefused to comment.\n\nAuthorities are at present investigating Mr.Zilla's\nongoing operations.
+
+[Punchout_Money]
+Note0_Heading=The News Ninja\n======================
+Note0_Headline=NEW OWNER\nGOES\nBOTTOM UP
+Note0_Text=After recently purchasing property from Zilla\nEnterprize and nearly bankrupting himself in\nthe process, Mr. Tsunami is said to have\ndiscovered hidden caches of money.\n\nNot a week later, Mr. Tsunami was found drunk,\nhigh and wandering through the downtown\nstreets.\n\nReportedly having spent all the money on drugs\nand a terrible gambling addiction,\nMr. Tsunami ultimately relapsed and can now\nno longer afford rehab. His newly aquired\npropertly is also facing foreclosure.
+Note1_Heading=The Dojo Domo\n======================
+Note1_Headline=MAN BUYS\nKARATE\nARMY
+Note1_Text=Authorities are in a state of high alert this week\nafter an unknown man reportedly bought out a\nMartial Arts studio, giving him access to a\nprivate army.\n\nReports have already started coming in of\nshopping malls and offices being attacked\nby hordes of Karate specialists.\nAny attempts to apprehend the suspects have\nfailed miserably.\n\nQuestions have also arisen as to how exactly the\nman(a common shopkeepr) got access to\nsufficient funds to finance such an initiative.
+
+[Punchout_Swords]
+Note0_Heading=The News Ninja\n======================
+Note0_Headline=CHILD SEVERS\nFATHER'S HAND
+Note0_Text=Not soon after moving into a property in the garden\ndistrict, the owner's son found a loose sword and\nbegan to play with it.\n\nAfter breaking several objects and slashing at\nthe air, the father came to take the sword\nfrom the cheerful child.\nUpon attempting to grab the sword from the\nchild's wildly swinging grasp, the father's hand\nwas sliced off.\n\nLittle more is known about the incident at this time.
+Note1_Heading=The Shogunate\n======================
+Note1_Headline=NEO-SAMURAI\nCOMMITS\nSEPPUKU
+Note1_Text=A neo-samurai was found dead in his apartment\non tuesday, apparently due to a self inflicted\ndisembowling.\n\nNotes found in the apartment and the sword\nused both indicate the man's state of mind.\nAppaled at learning his sword was second-hand,\nand not only that but also used by non-samurai\npractitioners, the man took his own life.\n\nThe sword has been traced to the previous owner,\nZilla Enterprize, and The neo-Samurai community\nis demanding justice be served.
+
+[Punchout_BrokenGlass]
+Note0_Heading=The News Ninja\n======================
+Note0_Headline=CHILD SHOWS\nPOTENTIAL AS\nARSONIST
+Note0_Text=Little Kogu was cheerfully playing with a piece of\nbroken glass and calmly burning hard working\nants on the side of a building in the garden\ndistrict, when suddenly the whole structure\ncaught fire.\n\nThe property owner is furious and demanding\nanswers.\nEven going so far as to suggest a cleanup detail\nis to blame.\n\nMeanwhile, others are openly trying to recruit Kogu\nas an arsonist, claiming that he shows\n"a great natural talent".
+Note1_Heading=Sushi News\n======================
+Note1_Headline=GLASS ARTIST\nPLAGUE\nCONTINUES
+Note1_Text=The "artworks" of local glass artist, Mr. Haisha are\ninfamous, their hideousness polluting every public\nspace in the city.\nMany attempts have been made over the years\nto curb their spread, but Mr. Haishi keeps\nfinding new glass sources.\n\nRecent evidence suggests he found a cache\nof glass in a property belonging to Zilla Enterprize.\nCity authorities are demanding legal action\nbe taken.\n\nIn the meantime we're stuck with the hideous\nabhorations wherever we turn.
+
+[Punchout_Guns]
+Note0_Heading=The News Ninja\n======================
+Note0_Headline=MADMAN\nATTACKS\nSUSHI STAND
+Note0_Text=Horrifying news this week from the market district.\nA man violently attacked a sushi stand, shooting the\nproprietor and all his produce.\n\nThe madman has since been arrested, but\nauthorities have begun the investigation\ninto how the man got a gun.\n\nThe police chief stated that they will start the\nsearch at his place of employment;\na property belonging to Zilla Enterprize.\n\nWe reached out to Zilla for comment, but have\nreceived no reply.
+Note1_Heading=The Pandamonium\n======================
+Note1_Headline=MADMAN\nKILLS\nPANDA
+Note1_Text=Shock has gripped the city zoo after a madman\nshot the famous Panda, Kage.\n\nDetails are sketchy, but it is believed the man\nreacted violently upon seeing the panda,\ndue to a history of violent encounters with\nstuffed toy Pandas.\nHis pyschiatrist says the man has been\nsuffering from severe hallucinations.\n\nMeanwhile, authorities are attempting to trace the\nweapon used in this most heinous crime.
+
+[Punchout_Scorches]
+Note0_Heading=The News Ninja\n======================
+Note0_Headline=NINJA\nOUTRBEAK
+Note0_Text=There has been a recent surge in the number of\nNinja hobbyists all over town.\nAuthorities are having a hard time keeping track of\ntheir inept thievery and other petty crimes.\n\nExperts have blamed the increase on sooty\nresidues found in a nearby pagoda in the\ngarden district.\nReportedly used as facepaint, the soot has allowed\nthese hoodlums to get away with countless crimes.\n\nAuthorities are currently unsure on how to stop\nthem, but are calling in "professionals".
+Note1_Heading=The Litterbox\n======================
+Note1_Headline=CAT BURGLER\nAT LARGE
+Note1_Text=Authorities have issued a warning to all cat owners\nthis week after the now dubbed "Cat Burgler" has so\nfar stolen over twenty cats from homes across\nthe city.\n\nPoor video footage and sooty residue found\nat the crime scenes suggests the thief has\nbeen covering their body in black residue\nand cat fur.\n\nAuthorities are at present searching any\nbusinesses for employees who've ditched work or\notherwise had access to sources of black ash.
+
+[Punchout_Casings]
+Note0_Heading=The News Ninja\n======================
+Note0_Headline=ZILLA\nA KILLA?
+Note0_Text=In news that should surprise no one but apprently\ndoes, Zilla Enterprize's stock prices have plummeted\nafter authorities released a statement saying\nthey have uncovered proof of a mass slaughter\nat a Zilla property.\n\nApperently several spent casings branded\nwith "Zilla" were turned over to the police.\n\nThis is sure to cause further damage to the\norganization's reputation as other companies\nattempt to distance themselves from the incident.
+Note1_Heading=Iron Post\n======================
+Note1_Headline=METAL\nWORKER\nART SEIZED
+Note1_Text=A controversial piece of art has been seized by\npolice as evidence after a local hobbyist\ndisplayed it outside his place of work this week.\n\nPolice claim the artwork(which is made out of\nshell casings) is suspicious, and they have\ntaken the man in for questioning.\n\nZilla Enterprize, the company the man works for\ncould not be reached for comment on\nthe matter.\n\nPolice have since been seen entering the\nestablishment however.
+
+[Punchout_Incinerator]
+Note0_Heading=The News Ninja\n======================
+Note0_Headline=BIG BANG\nTHEORY
+Note0_Text=After the explosive news of an ignited fireworks\nfactory last week, authorities have issued a\nstatement suggesting they know the source\nof the fire.\n\nApparently the fire spread from an open and\nunattended incinerator unit in a nearby building.\nThe fire soon engulfed much of the building and\nthen spread to the fireworks factory.\n\nReports of injuries and property loss are still coming\nin as a result of the exploding fireworks.\nA nearby dog parlour has apparently been\nhardest hit.
+Note1_Heading=Tokyo Sun\n======================
+Note1_Headline=MYSTERIOUS\nSMELL CAUSES\nSTINK
+Note1_Text=Local residents have begun complaining of a\nstrong smell coming from a nearby Zilla Enterprize\nproperty.\n\nInvestigators - once allowed in the property -\ndiscovered a missused incinerator unit was\nissuing forth a noxious cloud, likely due\nto the doors having been left open.\n\nZilla Enterprize is blaming their cleaning service\nand refuse to pay the fines and charges laid\nagainst them.
+
+[Punchout_Award]
+Note0_Heading=The News Ninja\n======================
+Note0_Headline=LUCKY BREAK\nFOR JANITOR
+Note0_Text=After a stunning performance last week,\na sanitation technician has been awarded Employee\nof the Month and sent on a unique assignment;\nto work as foreman at the Sewage and Waste\nPlant downtown.\n\nAs foreman they will lead a team into the\nwaste pipes and cleanup the great clog of 2006.\n\nThe plant has been inoperable for years now, but\nit seems they have finally found the right janitor\nfor the job!\nI wish them luck in making our toilets functional\nonce more.
+
+[Punchout_Report]
+Note0_CompanyName=Zilla\nSanitation .Inc
+Note0_Address=Building #4\nGarden District\nTokai\nNobitsura
+Note0_Heading=Official Inspection Report
+Note0_SubHeading=(As conducted by Mr.N Obpeik) - forwarded to cleaning crew
+Note0_Text=""The pagoda appeared to be in a clean state;\nmore or less.\nThorough searching revealed nothing alarming.\nAt least as far as the cleaning is concerned.\n\nThe cleanup detail employed to work on this pagoda\nperformed acceptably, and I tentatively\nsuggest that they be tasked with further\nemployment opportunities.\n\nI did however discover several safety hazards in\nthe pagoda, but this is not their department.\nI wish to see more employees follow this example.\n\nI shall be watching this cleanup crew closely.\nIf they slip up, they will find me less than\npleasant.""
+Note1_Text=""This is disgraceful, the pagoda was in a terrible\nstate.\nI saw hardly any indication of ''work'' being done.\nWhomever was employed to work the pagoda has\nfailed miserably, and stained my shoes as a result!\nI could scarecly bring myself to travel deeper into\nthe building after what I saw.\n\nI'm convinced that if a crew had done their job,\nI would still have useable footwear.\n\nI hope management intends to string these\nwretched employees up for a travesty such as this,\none I have never seen before.\n\nThe next time I go on an inspection, I demand proper\nfootwear! This is simply unacceptable...""
+Note2_Text=""When I became an inspector, I never thought I\nwould witness work as appalling and utterly\ngut-wrenching as I did this week.\n\nThe failure of the cleanup detail employed to work\nthe site during the week is beyond catastrophic!\n\nShould Management decide to continue\nemploying these... foul human beings, I myself\nwill be forced to quit.\n\nAs it is, I question how they were ever even\ngiven access in the first place!\n\nI intend to inquire more with Mr. Zilla personally.\nEven if he might cut my head off for asking questions,\nsomething must be done, and soon!""
+Note3_Text=""Dear god, I've seen some things over the years,\nbut nothing...nothing compares to this!\n\nI am forever scarred, and cannot bring myself to\ncomment more than absolutely necessary.\n\nA short few steps into the pagoda and I was\nslipping on the intestines and other body parts\nof our former employees.\nHeads, limbs and blood everywhere I looked.\nVisions that will haunt me for the rest of my - what\nlooks to be a very miserable - life.\n\nI left the pagoda as quickly as I could thereafter.\nMy clothes will never be clean again.\nI fear I will need to burn my clothing as soon as\npossible...""
+Note4_Text=""I was truly impressed by what I saw.\nIn all my hard years I have never seen such an\nincredible performance!\n\nNot only was everything spotlessly clean and\nsanitary, it was also organized and tidy.\n\nI would hate for this to simply go unnoticed,\ntherefore I am requesting that we raise the\nexpectations of our staff. A higher bar will\nencourage better performance.\n\nThis is sure to anger our less...accepting employees,\nbut I ask you, isn't it worth it?\nThe violent ones need to learn to be more like this.\nIn the meantime, I implore you to award this\nuncommonly rare crew!""
+
+[Punchout_Notice]
+Note0_CompanyName=Zilla\nSanitation .Inc
+Note0_Address=Building #4\nGarden District\nTokai\nNobitsura
+Note0_Heading=Official Notice
+Note0_SubHeading=(From the desk of Mr.S Umo)
+Note0_Text=Dear Henchman:\n\nAfter due consideration and thorough investigation\nit is Zilla Enterprize's view that you should recieve a\npetty promotion.\n\nYou shall recieve the following benefits:\n\n-Upgrade from 24x32'' of work space to 26x40''.\n-A 5% financial(before Tax) increase!\n-A 3 space jump on the Henchmen equipment\nwaiting list.\n\nKeep up the decent work and you may even rise to\nthe esteemed position of Head Hygiene Henchman\nwithin 20 years!\nThank you, and have a nice day.
+Note1_Text=Dear Henchman:\n\nThe pathetic work ethic that you demonstrated\nlast week will not be tolerated!\n\nConsider this your final warning; apply yourself!\n\nGiven your performance, the following are now\nin effect:\n\n-Instant dismissal from Henchmen equipment\nwaiting list.\n-Reduction to an 18x24'' work space.\n-Negation of Henchmen privileges.\n-A downgrade to the F-Series "Reed" Mop.\n\nThank you, and good day.
+Note2_Text=Dear Henchman:\n\nYour conduct during last week's work shift has led\nto an official inquiry into Zilla's "Kage" operations.\n\nWe cannot afford to continue hiring\ndestructively incompetent henchmen such\nas yourself.\n\nConsider this your final notice; you are terminated!\n\nExecutives will be over to "take care of you".\nYou are to have your area cleared out by\ntomorrow, and you are to hand in your mop and\naccess card at once!\n\nThank you, and good day.
+Note3_Text=Dear Henchman:\n\nYour corporate contract is hereby revoked.\n\nWe will not bother terminating you. You'll be joining\neveryone else in abject poverty as Zilla Sanitation\nshuts down.\n\nI will make it my personal mission to ensure that\nyou get the end you deserve, and that no one\nwill ever again see your sorry carcass!\n\nI wish I could see your face when it happens, but\nnow I must find new employment...\nMay you rot in in the bile from whence you poured!\n\nThank you, and go to hell...
+Note4_Text=Dear Henchman:\n\nYour incredible performance has been noted.\nAs I understand it, the inspector was truly impressed.\n\nOn behalf of Zilla Enterprize, I have been asked\nto assign you to the position that best suits\nyour talents.\nTherefore I have arranged for you to be sent to\nmunicipal services to aid them with a singular\ntask that requires one such as you.\n\nYou will take command of a team of workers and\nlead them in this task.\nCongratulations, you've earned it!\n\nThank you, and best of luck in your future endevour.
+
+[Punchout_Collegue]
+Note_Envy0_Info=From:\n*sender hidden*\n\nSubject:\nA Little Something Sweet
+Note_Envy0_Name=-Anonymous
+Note_Envy0_Date=Yesterday: 2:21 PM
+Note_Envy0_Text=Dear colleague:\n\nYou will get away with it no longer...\nYou don't know who I am, but I know you,\nand I have great plans for you.\n\nKnow that every meal you consume may very well\nbe your last.\nI will leave a little something sweet in it,\nsomething poisonous.\n\nNo longer will you take promotions from me.\nSoon, oh yes. Soon...
+Note_Envy1_Info=From:\nsumocheeks@sloshmail.com\n\nSubject:\nYour life is forfit!
+Note_Envy1_Name=-Sumo Bandakai
+Note_Envy1_Date=Today: 03:54 AM
+Note_Envy1_Text=Oho, now you've done it...\n\nYears, years have I spent at Zilla Enterprize,\nclawing my way up the ladder.\nI have done terrible, terrible things to get there.\nAnd then what happens? Your disgusting hide\ncomes along and takes everything that should\nrightfully be mine!\n\nMay a Sumo Wrestler sit on your face.\nMay fire ants eat your crotch.\nMay you know the suffering that only the\nworst deserve.\n\nAnd when you die, I will be there watching,\nwaiting to steal your shoes...
+Note_Envy2_Info=From:\npedo_king_elivs@shadow.mail\n\nSubject:\nSay Hello To My Little Friend
+Note_Envy2_Name=-One exceedingly pissed maniac!
+Note_Envy2_Date=Today: 09:44 AM
+Note_Envy2_Text=Dear Asswipe:\n\nThis is the last time you take a promotion from me!\n\nDo you know I recently bought a drill?\nIt's funny because I never do any DIY, but when\nit comes to you, I go out of my way.\n\nThat's why I'm going to knock you out in a dark\nalley, drag you to an abandoned building and do\nsome "renovations" of my own.\n\nBut don't you worry, it'll be our little secret.\nNo one needs to know, at least not until they\nfind your body in the digestive tracts of a\nthousand rats!\n\nAh, can you see it?\nGood, I want you to have something to look\nforward to...
+Note_Envy3_Info=From:\npuddingninja@hatemail.com\n\nSubject:\nDear Dickwad
+Note_Envy3_Name=-Pudding Ninja
+Note_Envy3_Date=Tuesday: 05:43 PM
+Note_Envy3_Text=Dear Dickwad:\n\nYou are like a chicken, fowl.\nI hope you get a bad fortune cookie and die!\n\nYour clothes/haikus/origami/karate sucks, bad!\nPS: Eat bad fugu and die!\n\n\nThis message was generated by hatemail.com,\nsuper low price hatemail delivered directly to\nyour target.\nPick from a host of favorites!\nTry our limited edition Eastern messages!\n\nHateMail.com: don't be hating, be mailing!
+Note_Goodbye0_Info=From:\nbadgerpants8@sickos.com\n\nSubject:\nIt Was Me!
+Note_Goodbye0_Name=-Badger Buggerer
+Note_Goodbye0_Date=Today: 6:11 PM
+Note_Goodbye0_Text=You're terminated! Hah, finally!:\n\nDo you have any idea how long I've been\nsending you demotivating messages?\nOh yes, it was me who sent you those shitty\nHaikus!\nHahaha, watching you almost die of Karoshi last\nmonth was so satisfying, but I have to say,\nthis is even better!\n\nHahaha, whew! I'm so gonna celebrate this\nvictory, maybe by writing some more Haikus,\nwould you like that?\nI know you would, I've been saving some nice\nones for this day, hahaha!
+Note_Goodbye1_Info=From:\nslipperypickle@sloshmail.com\n\nSubject:\nPayback, bitch!
+Note_Goodbye1_Name=-Your ''pal'' Kyoshi.
+Note_Goodbye1_Date=Yesterday: 4:08 PM
+Note_Goodbye1_Text=Oh dear, it seems you've been fired.\nBahahahaha! You stupid fuck.\n\nI want you to think back to that day you put\nchocolate sauce in my overalls.\nI want you to remember that when you're scraping\nthe turds out from under some rock.\n\nYou've had this coming for a long time, now you\nget to be the joke.\nWho's laughing now, huh?\nMe!
+Note_Retrenched0_Info=From:\nmanureface@sickos.com\n\nSubject:\nGOD DAMNIT!!!
+Note_Retrenched0_Name=-Mr. Buttcrusher
+Note_Retrenched0_Date=Today: 8:58 PM
+Note_Retrenched0_Text=I DO NOT FUCKING BELIEVE THIS!!:\n\nYOU!\nYou're getting Zilla Sanitation shut down!?\nIt's your fault I'm being retrenched!?\nSo many years I have spent cleaning filth,\nand...and now this!?\n\nDo you seriously think you can just get\naway with this?\nWe are going to make your life a living hell...
+Note_Retrenched1_Info=From:\nsamuraiweiner@sloshmail.com\n\nSubject:\nI'm going to punish you so bad...
+Note_Retrenched1_Name=-One very annoyed renegade
+Note_Retrenched1_Date=Today: 9:40 AM
+Note_Retrenched1_Text=Dear Dog Log:\n\nThank's to your...incredible performance,\nZilla Sanitation is now closing down!\n\nI don't think there is any way I can\nmake you suffer enough for this, but\nhell if I'm not going to try!\n\nI have all the time in the world now to make\nyou suffer and I shall.\nIt will all start with a match, and end with a\ncrispy corpse.\nThe steps in between I will leave to your\nimagination, for now...
+
+[VCUI_DebriefingScreen]
+Text_CleaningResult_Clean=You left the work site feeling confident\nabout your performance.\nA good job on your record might just keep you\nalive when it comes time to give employees the\nchop.\n\nYou feel a sense of dread as you realize your\n"colleagues" are sure to find a way to trip\nyou up, and undo all your efforts.\n\nIn the end, you realize they'll be chopped first\nanyway, the lazy scumbags.\nYou pour yourself some crappy brown sludge\nfrom the vending machine with a smirk on\nyour face, imagining yourself receiving an\n"Employee of the Month" award.
+Text_CleaningResult_Clean_Cash=You cautiously left the work site with a\nburgeoning trunk filled with blood money.\n\nDuring your thorough cleaning, you amassed\na total of %v dollars from the area.\nYou only hope no one will notice its absence.\n\nYou attempt to hide your smirk upon\nreturning to the office.\nYour colleagues are sure to punish you for\ndoing a good job, but as long as they don't\nfind your rainy day fund, all is good!
+Text_CleaningResult_Average=You return to your office after hardly even\nbothering to perform your appointed tasks.\nYou suspect that the up-tight inspector\nyou'll get will bitch about it, and\nrecommend that you're demoted, but you\ndon't even care.\n\nYou decide instead to scrounge some gunge\nout of the vending machine and watch some\nquestionably erotic Anime.
+Text_CleaningResult_Average_Cash=Upon returning to your office without\neven doing your job properly, you open\nyour trunk and gaze at the magnificent\n%v you collected from the work-site.\n\nIts smell fills your nostrils as you begin\nto secrete it in your office, hoping none\nof your asshole colleagues find it.\n\nYou take out a single note and reward\nyourself with the coveted "strawberry toffee"\nstill left in the vending machine.\nIts sweet taste is as rich as you are now...
+Text_CleaningResult_Filthy=You decided that your task was beneath\nsomeone of your intelligence, so you left\nwithout doing a damn thing.\n\nYou're pretty sure you'll get fired for this,\nleaving you unable to afford your subscription\nto "Cock and Load; A Guide to Guns".\nAnd just in-time for the commemorative 100'th\nedition no less!\n\nYou deplete the chemical storage locker in\nan effort to torch your entire office in\npreparation for your dismissal.\nBefore you leave, you collect your things\nand carefully set the fuse.\n\nThose guides certainly did come in handy...
+Text_CleaningResult_Filthy_Cash=You rushed back to your office after\ncarefully looting all the bodies at the\nwork-site, not even bothering to clean up.\n\nCareful not to let anyone see the contents\nof your trunk, you secured the impressive\n%v dollars in your hiding place.\n\nYou decide that the money would best be spent\non that yoga course you've always wanted.\nAfter all, it's about you now.\n\nThey're going to fire your ass, but you don't\ncare.\nYou deserve a good long holiday spent\ncontorting yourself into animal shapes!
+Text_CleaningResult_Worse=You turned up at the work site in a foul\nmood.\nAngered by the hideous mess before you,\nyou started hitting things with your mop.\nSoon it became a game for you, and you set\nabout making a mess that would adequetly\nhorrify any inspector.\n\nHours later, word comes in that your actions\nhave been felt throughout the company.\nThere's even talk of the whole thing being\nshut down.\n\n\nThis brings a smile to your face, and you\ngo about taking as much as you can before you\nare forced to leave, or worse; terminated.\n\nYou've already received several death threats\nand foul propositions, so you hasten your\ndeparture from this place...
+Text_CleaningResult_Worse_Cash=Not long after arriving to work you\nnoticed cash just left lying around.\n\nUnable to stop yourself, you searched every\ninch of the work-site, and every corpse in\nhopes of finding more.\n\nBy the time you were finished, the place\nwas in a terrible state.\nYou made more mess than when you started,\nbut looking at the %v in your\ntrunk, you decide to just make a run for it.\n\nYou clear out your office and prepare to leave\nbefore anyone gets suspicious.\n\nTime to go back to the good old days!
+Text_CleaningResult_Exceptional=You arrived at the work-site smartly dressed.\nYour overalls neatly pressed and ironed,\nyou turned on your Funk Ninja and glided\nthrough the tasks set for you like a skilled\nballerina.\n\nBefore you knew it, you had finished your\nwork superbly and it was time to leave.\n\nYou return to your office and congratulate\nyourself with a stale health-bar from\nthe vending machine; the same vending machine\nyou were the only one capable of fixing.\n\nAll that's left to do now is await the company's\ninspection report to prove what you already\nknow; that you're awesome!
+Text_CleaningResult_Exceptional_Cash=You looked upon the work-site with the\ngaze of a wise yogi.\nYou've got this!\n\nYour expert skills swiftly dealt with the\nslaughter set before you, allowing you to\neasily secure the bundles of cash you\ndiscovered lying about the place.\n\nLike a well-oiled machine, you performed\na fine job on the work-site,\nand look forward to the company's response.\nAs an extra measure, you decide to turn in\nthe %v dollars like a good little boy.\n\nThe money doesn't belong to you, you say.\nHonesty is the best policy is your thought\nprocess as you prepare to meet with Mr. Zilla\nabout the contents of your trunk.
+

@@ -1,0 +1,8 @@
+[sw_temple VCUIDataProvider_MapInfo]
+FriendlyName=Zilla Pagoda
+Description="Yakuza Slaughter\nSize: Large\nAverage Length: 1.5 hours"
+MapBriefing=Zilla Enterprize demands that the\npagoda be sanitized from top to bottom\nwithout delay!\nFailure to have the area cleaned prior to\ninspection time will result in immediate\ntermination.\n\n\nBy taking this job you agree to complete and\nmandatory silence.\nDishonoring the company will not be tolerated.\n"A blind eye sees no wrongs"\n\n\nAny valuables left about the pagoda are to be\nreported to Head Office immediately!\n\n"Awareness precedes honour""
+MapRespawnBriefing="Poor performance and an incompetent\nwork ethic has led to the death of your\nformer colleague.\n\nTherefor we are sending you in to pick up\ntheir slack and get the pagoda cleaned up\nwith all haste!\n\nFailure in this task will not be forgiven,\nand will most certainly lead to your dismissal,\nor worse...\n\n"Awareness precedes honour""
+
+[VCSW_FrontEnd VCUIDataProvider_MapInfo]
+FriendlyName=Front End

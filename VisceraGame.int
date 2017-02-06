@@ -1,0 +1,355 @@
+[VCGameViewportClient]
+TransitionText_Loading="Lade..."
+TransitionText_in=" in "
+
+//Fertig
+[VCUI_MidGameMenu]
+ExitMessages[0]="Mopp wegwerfen?"
+ExitMessages[1]="In Streik treten?"
+ExitMessages[2]="Bist du ein Drückeberger?"
+ExitMessages[3]="Deinen Arbeitgeber enttäuschen?"
+ExitMessages[4]="Eingeweide liegen lassen?"
+ExitMessages[5]="Auf zur Waschmaschine?"
+ExitMessages[6]="Das Blut deinen\nKollegen übrig lassen?"
+ExitMessages[7]="Unterwegs zu deiner\npsychischen Beurteilung?"
+ExitMessages[8]="Die Unternehmenspolitik\nentehren?"
+ExitMessages[9]="Den Saustall verfaulen lassen?"
+ExitMessages[10]="Auf etwas\nausgerutscht?"
+ExitMessages[11]="Religiöse Pause?"
+Caption_Options="Optionen"
+Caption_Resume="Zurück"
+Caption_Leave="Verlassen"
+Caption_Exit="Beenden"
+Hint_Options="Öffnet das Optionsmenü."
+Hint_Resume="Weiter putzen."
+Hint_Leave="Abstempeln und ab in den Personalraum."
+Hint_Exit="Aus der Luftschleuse gesaugt werden."
+Dialog_Leave="Zurück zum\nPersonalraum?"
+
+//Fertig
+[DebrisItemNames]
+Debris_DisplayName="Trümmer"
+Lantern_DisplayName="Laterne"
+Medpack_DisplayName="Erste Hilfe Kasten"
+ToiletSeat_DisplayName="Toilettensitz"
+WetFloorSign_DisplayName="Boden-gewischt Schild"
+DigLightSmall_DisplayName="Baustellenlicht"
+DigLightLarge_DisplayName="Grosses Baustellenlicht"
+Flare_DisplayName="Solar(R) Flare"
+Seed_DisplayName="Pflanzensamen"
+SentryGun_DisplayName="Spartan Phoenix"
+SentryAmmo_DisplayName="Spartan Munition"
+LightBulb_DisplayName="Glühbirne"
+AlienEgg_DisplayName="Alien Embryo"
+
+//Fertig
+[VCHUD]
+ScoreBoardHeading=Angestellte auf der Baustelle
+ScoreBoardPing=Ping
+ServerNetActorsWarningLineA="Warnung: Server hat Kapazität erreicht"
+ServerNetActorsWarningLineB="Spieler werden vielleicht nicht korrekt dargestellt"
+
+//Unfertig
+[SpamNotes]
+Caption_Bitterman1=Der neue Bitterman\n500 Computer!
+Caption_Mop1=Der neue Space-Mopp\nder A-Serie ist hier!
+Caption_SloshOMatic1=Slosh-O-Matic\nAngemessene Kosten, Automatisiert,\nAmbivalent
+Caption_Flare1=Die erleuchtende neue\nSolar Flare!
+Caption_WhatALoad1=What-A-Load\nBin Dispensors
+Caption_LightningGun1=HVC Mk9 Lighting\nGun, Pure Power!
+Caption_Incinerator1=Dreck weg\nAsche und Staub
+Caption_Lantern1=Die Tri-Fusions\nangetriebene Laterne!
+Caption_Shovel1=Die ultimative\nArbeiterschaufel!
+Caption_Welder1=High Energy Plasma\nLaser Schweisser
+Caption_Aerospace1=Aerospace\nEntsorgungen Inc.
+Caption_LiberationCorps1=Exo-Planetary\nLiberation Corps
+Caption_BigJohn1=Big John Human-\nAbfalleimer!
+Caption_JHARM1=Hoehen-Assistenz Relokalisierungs-\nMechanismus Serie 4!
+Caption_BigBanger1=Big Banger;\nDie Apokalypse ist da!
+Caption_Spartan1=Spartan: Phoenix\nDie EINZIGE Lösung!
+Caption_OmniCorp1=OmniCorp\nGemeinschaftliche Lösungen
+Caption_TrialNotice1=\n\nYour iVend Supply Machine trial period has expired.\nPlease consider upgrading for the low price of *899.99 Vaders!
+Text_Bitterman1=With a new retro design,\nit's sure to take you back\na couple centuries.\n\nWhat's inside however, is anything\nbut dated!\nUsing the new C-3PO core,\nthe 500 will rival most other\nSeries-G computers!\n\nFor an extra *9.99, you can get\nthe "Lemon Squeeze" memory\noptimization software included!
+Text_Mop1=With its sleek ergonomic\ndesign and Haladium Yellow\npaint job.\nThe new A-Series Space-Mop is\na work of art.\n\nWith just a single swab of its tentacle\ndesign head, it's goodbye mess!\nProven to remove all tough\nstains, no matter the cause.\n\nPre-Order now for only\n*55.99 Vaders!
+Text_SloshOMatic1=When it comes to affordable\nbucket supply automation, there\ncan be only one choice!\n\nThe Slosh-O-Matic now comes with\na truly whopping %20 less\nunforeseen consequences and\naccidental assimilation!\n\nNow available at a record\n*339.99 Vaders!
+Text_Flare1=If it's light you want,\nlook no further than the new\nSolar® Flare!\n\nWith the new ionized adronium\nphosphorous, its brightness rivals\nthat of the recent Sirius\nsupernova event!\n\nThere's no place where the sun\nwon't shine!\n\nAvailable in singles and bulk.
+Text_WhatALoad1=The only affordable\nchoice for all you disposal\nbin supply automation needs!\n\nIt's so affordable, you'll need\none of our bins just to hold\nall your savings!\n\nNow with %15 less\nspontaneous spates!\n\nOn sale for\n*399.99 Vaders!
+Text_LightningGun1=The ultimate in non-lethal\nlethality, the stunning new Mk9\ndelivers a significantly higher\ncharge than previous models.\n\nFor your everday mutant sedation\nto hardcore Krao riot control,\nthe Mk9 does it all.\n\nThis ultimate tool will set you\nback a princely *2599.99 Vaders.\nBut can you really put a price\non godlike power?
+Text_Incinerator1=Our new X-Butanateor\nIncinerators are Hot and Heavy!\n\nThe primary unit features dual\ndoor access combined with a\nhigh temperature atomization grill\nthat has more than enough\ndestructive power to eliminate\nany potential contaminants.\n\nOrder today and you will receive\nan entire canister of X-Butanateor\ngas for free!
+Text_Lantern1=Positively pulsating with power,\nthe new Tri-Fusion lantern by\nSkywalker Technologies features\nincreased brightness and\nlongevity.\n\nNow with %12 less conflegration\ncapability, it's safer than ever!\n\nOrder now to qualify for\naccidental extermination cover!
+Text_Shovel1=The new Space-Shovel is\neverything a planetary\nworkforce needs.\n\nAlong with our classic handle,\nwe've added extra strength to\nthe shovel head.\nPerfect for whatever you're\nshovelling, the X5 Space-Shovel\nis the right fit for you!\n\nNow available for the low low price\nof *39.99 Vaders!
+Text_Welder1=Troublesome bullet holes?\nStubborn welding jobs?\nYou need the new R2 High Energy\nPlasma Laser Welder!\n\nMelts surface damage back into\nshape in mere moments!\n\nStrong enough to turn anything into\nsludge within seconds, the R2 is no\nplay thing, but it sure is\nfun to use!
+Text_Aerospace1=With over 50 years of service,\nAerospace Sanitation have tackled\ncountless cleanup jobs across\nthe galaxy!\n\nNo job is too tough,\nno job is too unusual,\nno job is too clandestine\nfor Aerospace Sanitation's\nunique services.\n\nWe'll cleanup your mess!\nPremium package now *1,299,999 Vaders!
+Text_LiberationCorps1=When there's an invasion, our squad\nof ultimate badasses will protect you!\n\nOur alien blasting, roach slaying,\n steroid driven army\nof hardcore Star Troopers will\nkick ass in your target area.\nWe've got tactical smart-missiles,\nphase-plasma pulse rifles,\nRPGs, sonic electronic hull-breakers.\nWe got nukes, we got knives, sharp sticks!\n\nLet's kick some alien ass, double time!
+Text_BigJohn1=When it comes to human waste,\nwe know it inside and out.\nThat's why our Receptacles are\nsecond to none!\n\nWith state of the art keypad control\nand dual tank flow, the new yet\nclassic Big John look is a true champion.\n\nWith a wide range of Receptacle sizes,\nno man or beast is uncatered for,\nnor any state of wealth.\nYour cheeks deserve a luxury throne!
+Text_JHARM1=A classic BlackWheel Industrial\ndevice re-imagined by\nCrudson's Automation; the HARM,\nor Height-Assisted Relocation Mechanism!\n\nWhy waste money on pointless safety?\nIf it gets the job done for less,\nyou're a winner!\n\nThe all new Series 4 comes with less\nradioactive paint and catapulting than\nprevious models.\nYou can't afford to be safe any longer.
+Text_BigBanger1=When 11 just won't do!\nThe new Big Banger: Supernova\ntakes it to the next level with its\nspace-time shattering bass!\n\nSet yourself apart and bounce like\na true playa.\nWhen they hear you coming, they'll know:\nThere's a man who knows what matters!\n\nLimited edition, get it NOW!\n\nSay NO to mediocrity, say YES to Phat Bassics!
+Text_Spartan1=With its laser-guided twin barrels,\nthe Spartan has always been a force\nto be reckoned with.\nCombined with the Phoenix Edition's\nnew AI, you have the ultimate\nsecurity device!\n\nSuitable for "pacifying" any\nthreat, from terrormunists to your\nneighbor, or any would be villains.\n\nMake the smart choice,\nchoose danger!
+Text_OmniCorp1=When it comes to mechanized\nsolutions, OmniCorp is the only choice!\n\nFrom household droids to full on war\nmachines or urban combat mechs,\nOmni corp literally has it all!\n\nUsing only the most precise\nengineering techniques and state of\nthe art materials, our creations are\nto die for!\n\nLimited Edition Companion Droid on sale now!
+Text_TrialNotice1=\n\nWith the full version you get:\n-Unlimited access to our synthesizer database.\n-24/8 sub-light call-line support, with highly\ntrained technicians ready to serve you.\n\n-Immediate cessation of Spam vending protocols.\n-Creation software, create and share your own\nmolecular-assembly plans.\n\n-Si-Fi support; connect anytime, anywhere,\nanyhow. You can even link with other iVend\ndevices with ease!\n\nUpgrade now, what are you waiting for!\n\n\niVend, we're dedicated creationists hard at work.
+Company_Bitterman1=Lemon Computers
+Company_Mop1=BlackWheel Industrial Sanitation Inc.
+Company_SloshOMatic1=Crudson's Automation
+Company_Flare1=Solaris Phoenix GC
+Company_WhatALoad1=Crudson's Automation
+Company_LightningGun1=Sith & Sons
+Company_Incinerator1=Morpheus Industries
+Company_Lantern1=Skywalker Technologies
+Company_Shovel1=Morpheus Industries
+Company_Welder1=BlackWheel Industrial Sanitation Inc.
+Company_Aerospace1=The Only No-Refusal Sanitation Workforce!
+Company_LiberationCorps1=The Balls of the Galaxy
+Company_BigJohn1=Big John Industries
+Company_JHARM1=Crudson's Automation
+Company_BigBanger1=Phat Bassics
+Company_Spartan1=Omni-Corp Collaborative Solutions
+Company_OmniCorp1="OmniPresent. OmniPotent. OmniScient."
+
+[VCUIInteraction]
+BadLanguageFilter=(BadWord="Asshole",GoodWord="*******")
+BadLanguageFilter=(BadWord="Jackass",GoodWord="*******")
+BadLanguageFilter=(BadWord=" Ass ",GoodWord=" *** ")
+BadLanguageFilter=(BadWord=" Ass.",GoodWord=" ***.")
+BadLanguageFilter=(BadWord=" Ass!",GoodWord=" ***!")
+BadLanguageFilter=(BadWord=" Ass?",GoodWord=" ***?")
+BadLanguageFilter=(BadWord=" Ass,",GoodWord=" ***,")
+BadLanguageFilter=(BadWord="Fucker",GoodWord="******")
+BadLanguageFilter=(BadWord="Fuckhead",GoodWord="********")
+BadLanguageFilter=(BadWord="Fuck",GoodWord="****")
+BadLanguageFilter=(BadWord="Bitch",GoodWord="*****")
+BadLanguageFilter=(BadWord="Bitches",GoodWord="*******")
+BadLanguageFilter=(BadWord=" God Damn ",GoodWord=" *** **** ")
+BadLanguageFilter=(BadWord=" God Damn",GoodWord=" *** ****")
+BadLanguageFilter=(BadWord="Damnit",GoodWord="******")
+BadLanguageFilter=(BadWord=" Damn ",GoodWord=" **** ")
+BadLanguageFilter=(BadWord="Damn ",GoodWord="**** ")
+BadLanguageFilter=(BadWord="Damn.",GoodWord="****.")
+BadLanguageFilter=(BadWord="Damn,",GoodWord="****,")
+BadLanguageFilter=(BadWord="Damn!",GoodWord="****!")
+BadLanguageFilter=(BadWord="Damn?",GoodWord="****?")
+BadLanguageFilter=(BadWord="Bastards",GoodWord="********")
+BadLanguageFilter=(BadWord="Bastard",GoodWord="*******")
+BadLanguageFilter=(BadWord="Shithole",GoodWord="********")
+BadLanguageFilter=(BadWord="Shithead",GoodWord="********")
+BadLanguageFilter=(BadWord="Shitface",GoodWord="********")
+BadLanguageFilter=(BadWord=" Shit",GoodWord=" ****")
+BadLanguageFilter=(BadWord="Shit ",GoodWord="**** ")
+BadLanguageFilter=(BadWord="Dickhead",GoodWord="********")
+BadLanguageFilter=(BadWord="Dick ",GoodWord="**** ")
+BadLanguageFilter=(BadWord="Dick.",GoodWord="****.")
+BadLanguageFilter=(BadWord="Dick,",GoodWord="****,")
+BadLanguageFilter=(BadWord="Dick!",GoodWord="****!")
+BadLanguageFilter=(BadWord="Dick?",GoodWord="****?")
+BadLanguageFilter=(BadWord="Prick ",GoodWord="***** ")
+BadLanguageFilter=(BadWord="Prick.",GoodWord="*****.")
+BadLanguageFilter=(BadWord="Prick,",GoodWord="*****,")
+BadLanguageFilter=(BadWord="Prick!",GoodWord="*****!")
+BadLanguageFilter=(BadWord="Prick?",GoodWord="*****?")
+BadLanguageFilter=(BadWord="Cunt ",GoodWord="**** ")
+BadLanguageFilter=(BadWord="Cunt.",GoodWord="****.")
+BadLanguageFilter=(BadWord="Cunt,",GoodWord="****,")
+BadLanguageFilter=(BadWord="Cunt!",GoodWord="****!")
+BadLanguageFilter=(BadWord="Cunt?",GoodWord="****?")
+BadLanguageFilter=(BadWord="Twat ",GoodWord="**** ")
+BadLanguageFilter=(BadWord="Twat.",GoodWord="****.")
+BadLanguageFilter=(BadWord="Twat,",GoodWord="****,")
+BadLanguageFilter=(BadWord="Twat!",GoodWord="****!")
+BadLanguageFilter=(BadWord="Twat?",GoodWord="****?")
+;Humans...
+
+[VCDebris_EmployeeChipBase]
+RandomEmployeeFirstNames[0]="Alexi"
+RandomEmployeeFirstNames[1]="Shen"
+RandomEmployeeFirstNames[2]="Gheck"
+RandomEmployeeFirstNames[3]="Tori"
+RandomEmployeeFirstNames[4]="Butch"
+RandomEmployeeFirstNames[5]="Tom"
+RandomEmployeeFirstNames[6]="Seamus"
+RandomEmployeeFirstNames[7]="Twitch"
+RandomEmployeeFirstNames[8]="Rod"
+RandomEmployeeFirstNames[9]="Maurice"
+RandomEmployeeFirstNames[10]="William"
+RandomEmployeeFirstNames[11]="Kari"
+RandomEmployeeFirstNames[12]="Julia"
+RandomEmployeeFirstNames[13]="Agetha"
+RandomEmployeeFirstNames[14]="Trudy"
+RandomEmployeeFirstNames[15]="Roberta"
+RandomEmployeeFirstNames[16]="Mariana"
+RandomEmployeeFirstNames[17]="Peter"
+RandomEmployeeFirstNames[18]="Timothy"
+RandomEmployeeFirstNames[19]="Jack"
+RandomEmployeeFirstNames[20]="Stuart"
+RandomEmployeeFirstNames[21]="John"
+RandomEmployeeFirstNames[22]="Grieta"
+RandomEmployeeFirstNames[23]="Amy"
+RandomEmployeeFirstNames[24]="Muriel"
+RandomEmployeeFirstNames[25]=Jose
+RandomEmployeeFirstNames[26]=Carter
+RandomEmployeeFirstNames[27]=Boon
+RandomEmployeeFirstNames[28]=Hector
+RandomEmployeeFirstNames[29]=Hans
+RandomEmployeeFirstNames[30]=Cedric
+RandomEmployeeFirstNames[31]=Jay
+RandomEmployeeFirstNames[32]=Kaz
+RandomEmployeeFirstNames[33]=Adam
+RandomEmployeeFirstNames[34]=Samwise
+RandomEmployeeFirstNames[35]=Fent
+RandomEmployeeFirstNames[36]=Thurgood
+RandomEmployeeFirstNames[37]=Peter
+RandomEmployeeFirstNames[38]=Dieter
+RandomEmployeeFirstNames[39]=Miguel
+RandomEmployeeFirstNames[40]=Rodney
+RandomEmployeeFirstNames[41]=Edward
+RandomEmployeeFirstNames[42]=Kyle
+RandomEmployeeFirstNames[43]=Figgy
+RandomEmployeeFirstNames[44]=Fork
+RandomEmployeeFirstNames[45]=Fabio
+RandomEmployeeFirstNames[46]=Anthony
+RandomEmployeeFirstNames[47]=Cermod
+RandomEmployeeFirstNames[48]=Thomas
+RandomEmployeeFirstNames[49]=Dick
+RandomEmployeeFirstNames[50]=Douglas
+RandomEmployeeFirstNames[51]=Elwad
+RandomEmployeeFirstNames[52]=Cerwas
+RandomEmployeeFirstNames[53]=Gavid
+RandomEmployeeFirstNames[54]=Henk
+RandomEmployeeFirstNames[55]=Rico
+RandomEmployeeFirstNames[56]=Runkle
+RandomEmployeeFirstNames[57]=Igor
+RandomEmployeeFirstNames[58]=Ivan
+RandomEmployeeFirstNames[59]=Eduardo
+RandomEmployeeFirstNames[60]=Thobias
+RandomEmployeeFirstNames[61]=Manuel
+RandomEmployeeFirstNames[62]=Murlow
+RandomEmployeeFirstNames[63]=Monty
+RandomEmployeeFirstNames[64]=Nim
+RandomEmployeeFirstNames[65]=Sawas
+RandomEmployeeFirstNames[66]=Jarwad
+RandomEmployeeFirstNames[67]=Ajax
+RandomEmployeeFirstNames[68]=Vlad
+RandomEmployeeFirstNames[69]=Remi
+RandomEmployeeFirstNames[70]=Borak
+RandomEmployeeFirstNames[71]=Yuri
+RandomEmployeeFirstNames[72]=Forli
+RandomEmployeeFirstNames[73]=Paul
+RandomEmployeeFirstNames[74]=Kristian
+RandomEmployeeFirstNames[75]=Jacques
+RandomEmployeeFirstNames[76]=Pewli
+RandomEmployeeFirstNames[78]=Fonz
+RandomEmployeeFirstNames[79]=Jean
+RandomEmployeeFirstNames[80]=Pierre
+RandomEmployeeFirstNames[81]=Krivko
+RandomEmployeeFirstNames[82]=Scott
+RandomEmployeeFirstNames[83]=Skaatt
+RandomEmployeeFirstNames[84]=Eski
+RandomEmployeeFirstNames[85]=Selbar
+RandomEmployeeFirstNames[86]=Virgil
+RandomEmployeeFirstNames[87]=Jake
+RandomEmployeeFirstNames[88]=Janko
+RandomEmployeeFirstNames[89]=Pitri
+RandomEmployeeFirstNames[90]=Adro
+RandomEmployeeFirstNames[91]=Ando
+RandomEmployeeFirstNames[92]=Chang
+RandomEmployeeFirstNames[93]=Wu
+RandomEmployeeFirstNames[94]=Childs
+RandomEmployeeFirstNames[95]=Roger
+RandomEmployeeFirstNames[96]=Rebecca
+RandomEmployeeFirstNames[97]=Rebekah
+RandomEmployeeFirstNames[98]=David
+RandomEmployeeFirstNames[99]=John
+RandomEmployeeFirstNames[100]=Carson
+RandomEmployeeFirstNames[101]=Elizabeth
+RandomEmployeeFirstNames[102]=Daniel
+RandomEmployeeFirstNames[103]=Samantha
+RandomEmployeeFirstNames[104]=Jack
+RandomEmployeeSirNames[0]="Petrovka"
+RandomEmployeeSirNames[1]="Meng"
+RandomEmployeeSirNames[2]="Wang"
+RandomEmployeeSirNames[3]="Wankopopolis"
+RandomEmployeeSirNames[4]="Gunderson"
+RandomEmployeeSirNames[5]="Bracegirdle"
+RandomEmployeeSirNames[6]="Proudfeet"
+RandomEmployeeSirNames[7]="Merringer"
+RandomEmployeeSirNames[8]="Sternson"
+RandomEmployeeSirNames[9]="Frufru"
+RandomEmployeeSirNames[10]="Puddingbritch"
+RandomEmployeeSirNames[11]="Dryfaus"
+RandomEmployeeSirNames[12]="Wackleberry"
+RandomEmployeeSirNames[13]="Hasehosen"
+RandomEmployeeSirNames[14]="Elmsly"
+RandomEmployeeSirNames[15]="Piazze"
+RandomEmployeeSirNames[16]="Cuervocasa"
+RandomEmployeeSirNames[17]="Smith"
+RandomEmployeeSirNames[18]="Khan"
+RandomEmployeeSirNames[19]="Buscador"
+RandomEmployeeSirNames[20]="Chin"
+RandomEmployeeSirNames[21]="Yuán"
+RandomEmployeeSirNames[22]="Klizma"
+RandomEmployeeSirNames[23]=Wilkes
+RandomEmployeeSirNames[24]=Hansen
+RandomEmployeeSirNames[25]=Sunderson
+RandomEmployeeSirNames[26]=Anderson
+RandomEmployeeSirNames[27]=Edkinson
+RandomEmployeeSirNames[28]=Booth
+RandomEmployeeSirNames[29]=Forsyth
+RandomEmployeeSirNames[30]=Cromblin
+RandomEmployeeSirNames[31]=Holbrooks
+RandomEmployeeSirNames[32]=Youngpants
+RandomEmployeeSirNames[33]=Rooney
+RandomEmployeeSirNames[34]=Speef
+RandomEmployeeSirNames[35]=Sampa
+RandomEmployeeSirNames[36]=Burnley
+RandomEmployeeSirNames[37]=Bishop
+RandomEmployeeSirNames[38]=Thamely
+RandomEmployeeSirNames[39]=Cortez
+RandomEmployeeSirNames[40]=Abercromby
+RandomEmployeeSirNames[41]=Munchley
+RandomEmployeeSirNames[42]=Durstoff
+RandomEmployeeSirNames[43]=Gorm
+RandomEmployeeSirNames[44]=Haggard
+RandomEmployeeSirNames[45]=Maraharaban
+RandomEmployeeSirNames[46]=Jamarad
+RandomEmployeeSirNames[47]=Soomaswasi
+RandomEmployeeSirNames[48]=Pablo
+RandomEmployeeSirNames[49]=Delwood
+RandomEmployeeSirNames[50]=Pyjinksi
+RandomEmployeeSirNames[51]=Kryzko
+RandomEmployeeSirNames[52]=Ibrahid
+RandomEmployeeSirNames[53]=Spent
+RandomEmployeeSirNames[54]=Smargov
+RandomEmployeeSirNames[55]=Semtoff
+RandomEmployeeSirNames[56]=Slodovak
+RandomEmployeeSirNames[57]=Krevic
+RandomEmployeeSirNames[58]=Debrovnik
+RandomEmployeeSirNames[59]=Rutger
+RandomEmployeeSirNames[60]=Krustaffel
+RandomEmployeeSirNames[61]=Steiner
+RandomEmployeeSirNames[62]=LeFont
+RandomEmployeeSirNames[63]=LaMarc
+RandomEmployeeSirNames[64]=Schumal
+RandomEmployeeSirNames[65]=Fordaux
+RandomEmployeeSirNames[66]=Krishkow
+RandomEmployeeSirNames[67]=Shezzly
+RandomEmployeeSirNames[68]=Spade
+RandomEmployeeSirNames[69]=Virdy
+RandomEmployeeSirNames[70]=Dantez
+RandomEmployeeSirNames[71]=Glamley
+RandomEmployeeSirNames[72]=Hafjorm
+RandomEmployeeSirNames[73]=Pramishki
+RandomEmployeeSirNames[74]=Schlodd
+RandomEmployeeSirNames[75]=Smythe
+RandomEmployeeSirNames[76]=Krafsborg
+RandomEmployeeSirNames[77]=Kajuro
+RandomEmployeeSirNames[78]=Budo
+RandomEmployeeSirNames[79]=Koromo
+RandomEmployeeSirNames[90]=Rivers
+RandomEmployeeSirNames[91]=Wilco
+RandomEmployeeSirNames[92]=Jordan
+RandomEmployeeSirNames[93]=McKay
+RandomEmployeeSirNames[94]=Hewlett
+RandomEmployeeSirNames[95]=Shepard
+RandomEmployeeSirNames[96]=Weir
+RandomEmployeeSirNames[97]=Beckett
+RandomEmployeeSirNames[98]=Jackson
+RandomEmployeeSirNames[99]=O'Neill
+RandomEmployeeSirNames[100]=Carter

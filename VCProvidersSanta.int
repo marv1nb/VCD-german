@@ -1,0 +1,12 @@
+[V_Santa01 VCUIDataProvider_MapInfo]
+FriendlyName=Santa's Workshop
+Description="Tragic Christmas Slaughter\nSize: Medium\nAverage Length: 2 hours"
+MapBriefing="The tragic events that unfolded at this\nworkshop must in no way deter you from\nperforming your duties in a manner befitting the\ncompany's reputation.\nYour work here entails cleaning up the horrific\naftermath of Mr Claus' unfortunate breakdown.\nThis includes the obvious slaughter and any broken\nitems and so forth.\n\nPlease conduct yourself appropriately, as this\nassignment will reflect upon your permanent\nrecord.\nFail to follow company guidelines and regulations,\nand you may find yourself without a job.\n\nOnce your assignment is complete, the corporation\nwill take ownership of the workshop and\nany remaining items and employees."
+MapRespawnBriefing="The careless work ethic of your\npredecessor led to their death, shaming the\ncompany!\nWe require that you as a substitute fill this\nopening immediately.\nPerform your duties in accordance with the\ncompany guidelines and regulations, or be replaced.\n\nYour performance will be evaluated at the end of\nthe work day, and if it is satisfactory, you\nmay be considered for promotion to acting\nHygiene Technician and a marginal salary increase.\n\nThe company cannot afford yet another workplace\nsafety lawsuit, so work responsibly and safely!"
+
+[VCRadioMusicSanta_01 VCUIDataProvider_RadioInfo]
+Songs=(SongTitle="Workshop Cleanup",SongArtist="Santa's Ruin")
+Songs=(SongTitle="March of the Elves",SongArtist="Santa's Ruin")
+Songs=(SongTitle="Whiskey and a Shotgun",SongArtist="Santa's Ruin")
+Songs=(SongTitle="Red Snow",SongArtist="Santa's Ruin")
+Songs=(SongTitle="Ghost of Christmas Slashed!",SongArtist="Santa's Ruin")
